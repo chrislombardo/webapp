@@ -5,6 +5,7 @@ Lombardo2
 Lombardo3
 Lombardo4
 Lombardo5
+Lombardo6
 The Docker Fundamentals repository contains the example Hello World Python WebApp
 
 ## License
